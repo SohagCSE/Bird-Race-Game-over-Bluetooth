@@ -1,4 +1,4 @@
-# Bird-Race-Game
+# Bird-Race-Game-over-Bluetooth
 Android racing game over bluetooth
 
 ## Short description
